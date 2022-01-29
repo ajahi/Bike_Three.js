@@ -1,0 +1,11 @@
+Model Information:
+* title:	Honda CB500f Scrambler (Custom)
+* source:	https://sketchfab.com/3d-models/honda-cb500f-scrambler-custom-a50d882468854f05bd559fe878914d54
+* author:	DenisM (https://sketchfab.com/Denis_M)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Honda CB500f Scrambler (Custom)" (https://sketchfab.com/3d-models/honda-cb500f-scrambler-custom-a50d882468854f05bd559fe878914d54) by DenisM (https://sketchfab.com/Denis_M) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
